@@ -24,28 +24,6 @@
 
 ---
 
-## 🔭 Projects
-
-### 1. To-Do List Web App
-
-* Stack: React, Node.js, Express, MongoDB, Tailwind CSS
-* Features: Authentication, CRUD notes, responsive UI
-
-### 2. bg-change
-
-* Stack: React
-* Description: Utility to dynamically change backgrounds for demos
-
----
-
-## 🎓 Education
-
-**B.Tech — Computer Science & Engineering**
-
-* Oriental University, Indore — 3rd Year
-
----
-
 ## 📊 GitHub Stats
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=1tsadityaraj\&show_icons=true\&theme=radical\&count_private=true\&hide_border=true\&include_all_commits=true)
@@ -59,7 +37,5 @@
 * **Email:** [heyitsadityaraj@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/aditya-raj-a1b925)
 
----
 
-<p align="center">Made with ❤️ by Aditya Raj</p>
 
