@@ -65,29 +65,18 @@
 
 ---
 
-## ⚡ Activity & Progress
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1tsadityaraj&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsadityaraj&layout=compact&theme=radical&border_radius=10" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=1tsadityaraj&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1tsadityaraj&theme=radical&no-frame=true&margin-w=15" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=1tsadityaraj&theme=radical)
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1tsadityaraj/1tsadityaraj/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## 🐍 Contribution Graph
 
----
+![Contribution Snake](https://raw.githubusercontent.com/1tsadityaraj/1tsadityaraj/output/github-contribution-grid-snake.svg)
+
 
 ## 🤝 Let's Connect!
 
