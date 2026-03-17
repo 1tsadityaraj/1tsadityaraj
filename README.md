@@ -59,14 +59,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&lines=System+Design+%E2%96%AA%EF%B8%8E+Data+Structures+%E2%96%AA%EF%B8%8E+Algorithms;Dynamic+Programming+%E2%96%AA%EF%B8%8E+Graphs+%E2%96%AA%EF%B8%8E+OOPs;REST+APIs+%E2%96%AA%EF%B8%8E+Database+Optimization+%E2%96%AA%EF%B8%8E+AI+Prompt+Chaining" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/1tsadityaraj/">
-    <img src="https://img.shields.io/badge/LeetCode-1000%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/1tsadityaraj/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Ranked-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
