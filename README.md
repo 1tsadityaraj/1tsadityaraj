@@ -22,7 +22,6 @@
     <td width="60%">
       <p>🎓 <b>Background:</b> 3rd Year B.Tech CSE at Oriental University, Indore</p>
       <p>🚀 <b>Expertise:</b> Architecting production-grade SaaS platforms with RBAC & real-time sync</p>
-      
       <p>🛠️ <b>Philosophy:</b> Solving business problems with scalable, clean code.</p>
       <p>📧 <b>Contact:</b> <a href="mailto:heyitsadityaraj@gmail.com">heyitsadityaraj@gmail.com</a></p>
     </td>
@@ -30,6 +29,8 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidW56ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
     </td>
   </tr>
+      
+      
 </table>
 
 ---
