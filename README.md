@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aditya-portfolio-flame.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;SaaS+Architect;AI+Integrations+Specialist;1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;SaaS+Architect;AI+Integrations+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
     <td width="60%">
       <p>🎓 <b>Background:</b> 3rd Year B.Tech CSE at Oriental University, Indore</p>
       <p>🚀 <b>Expertise:</b> Architecting production-grade SaaS platforms with RBAC & real-time sync</p>
-      <p>🧠 <b>Logic:</b> 1000+ Algorithmic challenges solved across LeetCode & GFG</p>
+      
       <p>🛠️ <b>Philosophy:</b> Solving business problems with scalable, clean code.</p>
       <p>📧 <b>Contact:</b> <a href="mailto:heyitsadityaraj@gmail.com">heyitsadityaraj@gmail.com</a></p>
     </td>
